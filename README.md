@@ -1,2 +1,2 @@
-# Pagina
-Una pagina web con mis habilidades y campo laboral
+# My-Web-Page
+Una breve pagina web, con mis habilidades, experiencias y estudios.
